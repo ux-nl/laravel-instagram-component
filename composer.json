@@ -1,5 +1,5 @@
 {
-    "name": "vormkracht10/laravel-instagram-component",
+    "name": "ux-nl/laravel-instagram-component",
     "description": "Laravel Instagram Component",
     "keywords": [
         "vormkracht10",
@@ -7,7 +7,7 @@
         "laravel-blade",
         "laravel-blade-component"
     ],
-    "homepage": "https://github.com/vormkracht10/laravel-instagram-component",
+    "homepage": "https://github.com/ux-nl/laravel-instagram-component",
     "license": "MIT",
     "authors": [
         {
@@ -22,7 +22,7 @@
         "pgrimaud/instagram-user-feed": "^7.0",
         "spatie/laravel-package-tools": "^1.14.0",
         "symfony/cache": "^7.0",
-        "vormkracht10/laravel-permanent-cache": "^0.3"
+        "ux-nl/laravel-permanent-cache": "^0.3"
     },
     "require-dev": {
         "laravel/pint": "^1.0",
